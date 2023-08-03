@@ -1,0 +1,14 @@
+body{
+    text-align:center;
+    background-color: #FBE8A6;
+}
+#pt{
+    color: #303C6C;
+}
+.btns{
+    background-color: #F4976C;
+    width: 250px;
+    padding: 6px;
+    border-radius: 5px;
+    box-shadow: 7px 7px grey;
+}
